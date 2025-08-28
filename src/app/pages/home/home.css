@@ -1,0 +1,8 @@
+img{
+  width: 457px;
+  padding: 20px;
+}
+.carousel .carousel-item img {
+  height: 475px;      /* ajusta a tu gusto: 280–420px */
+  object-fit: cover;  /* recorta manteniendo proporciones */
+}
